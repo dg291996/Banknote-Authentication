@@ -1,0 +1,9 @@
+PyWavelets
+opencv-python
+streamlit
+scipy
+matplotlib 
+seaborn
+scikit-learn 
+joblib
+pandas
